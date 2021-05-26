@@ -32,7 +32,7 @@ For it, we have imported the data from the datasheet given in reference which ha
 <b>Line C:</b> Objects on this line from the Arc of Milkyway Galaxy as seen from Earth.<br>
 
 ### 2.
-<b>ANDROMEDA GALAXY(M31): <b>A spiral galaxy approximately 2.5 million light-years away and the nearest major galaxy to the Milkyway with diameter 220K ly
+<b>ANDROMEDA GALAXY(M31): </b>A spiral galaxy approximately 2.5 million light-years away and the nearest major galaxy to the Milkyway with diameter 220K ly
 <p float="left">
   <img src="Images/4.jpg" />
   <img src="Images/42.jpg" /> 
@@ -42,7 +42,7 @@ For it, we have imported the data from the datasheet given in reference which ha
 <p>
 
 ### 3.
-<b>Crab Nebula (M1): <b> At the center of the nebula lies the Crab Pulsar (Neutron Star) which emits pulses of radiation from gamma rays to radio waves.
+<b>Crab Nebula (M1): </b> At the center of the nebula lies the Crab Pulsar (Neutron Star) which emits pulses of radiation from gamma rays to radio waves.
 
 <p float="left">
   <img src="Images/5.jpg" />
@@ -54,9 +54,9 @@ For it, we have imported the data from the datasheet given in reference which ha
 
 ## Terminology
 <ol>
-<li><b>Mollweide Projection -</b> The Mollweide is a pseudocylindrical projection in which the equator is represented as a straight horizontal line perpendicular to a central meridian one-half its length.</li>
-<li><b>Astropy -</b> Astropy is a collection of software packages written in the Python programming language and designed for use in astronomy.</li>
-<li><b>Virgo SuperCluster -</b> The Virgo Supercluster or the Local Supercluster is a mass concentration of galaxies containing the Virgo Cluster and Local Group, which in turn contains the Milky Way and Andromeda galaxies.</li>
+<li><b>Mollweide Projection:</b> The Mollweide is a pseudocylindrical projection in which the equator is represented as a straight horizontal line perpendicular to a central meridian one-half its length.</li>
+<li><b>Astropy:</b> Astropy is a collection of software packages written in the Python programming language and designed for use in astronomy.</li>
+<li><b>Virgo SuperCluster:</b> The Virgo Supercluster or the Local Supercluster is a mass concentration of galaxies containing the Virgo Cluster and Local Group, which in turn contains the Milky Way and Andromeda galaxies.</li>
 </ol>
 
 ### References:
