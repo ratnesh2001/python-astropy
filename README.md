@@ -7,6 +7,6 @@ For example, Messier 1 is a supernova remnant, known as the Crab Nebula, and the
 In this project, we have plotted all the messier objects in Mollweide View, took a messier object as input, presented its details and also plotted the Sky View of it, in python with the help of the Astropy library.
 
 <figure class="image">
-  <img src="{{ Images/1.jpeg }}" alt="{{ include.description }}">
+  <img src="{{ Images/1.jpg }}" alt="{{ include.description }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>
