@@ -1,5 +1,5 @@
 # python-astropy
-<b> Project Link: n-astropy <\b>
+<b> Project Link: https://github.com/ratnesh2001/python-astropy/ </b>
 
 ### Messier Objects
 The Messier objects are a set of 110 astronomical objects catalogued by the French astronomer Charles Messier in his Catalogue des Nébuleuses et des Amas d'Étoiles ("Catalogue of Nebulae and Star Clusters"). The catalogue consists of a diverse range of astronomical objects, from star clusters and nebulae to galaxies. 
